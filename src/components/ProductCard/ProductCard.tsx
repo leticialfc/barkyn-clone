@@ -9,7 +9,7 @@ interface IProductCardProps {
 }
 
 const ProductCard = (props: IProductCardProps) => {
-  const { name, price, img } = props.product;
+  const { name, price } = props.product;
   const { addToCart } = useContext(CartContext);
 
   return (

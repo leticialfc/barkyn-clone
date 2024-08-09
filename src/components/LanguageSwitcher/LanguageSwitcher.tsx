@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import "./LanguageSwitcher.less";
 import arrowUp from "../../../public/assets/arrow-up.svg";
 import arrowDown from "../../../public/assets/arrow-down.svg";
