@@ -1,0 +1,36 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Ração de frango e peru fresco",
+      "img": "https://cdn.shopify.com/s/files/1/0659/0706/5061/files/chicken3_800x_c87f746b-6e79-48e0-b733-b4201781f5b1_500x.png",
+      "price": 28.55,
+      "size": "3kg",
+      "filters": ["sem-cereais", "light"]
+    },
+    {
+      "id": 2,
+      "name": "Ração de frango e peru fresco, biscoito mini",
+      "img": "https://cdn.shopify.com/s/files/1/0659/0706/5061/files/chicken3_800x_c87f746b-6e79-48e0-b733-b4201781f5b1_500x.png",
+      "price": 28.55,
+      "size": "3kg",
+      "filters": ["sem-cereais", "light"]
+    },
+    {
+      "id": 3,
+      "name": "Probiótico para cães",
+      "img": "https://cdn.shopify.com/s/files/1/0659/0706/5061/files/04_500x.png?v=1701164097",
+      "price": 4.9,
+      "size": "",
+      "filters": ["sensivel"]
+    },
+    {
+      "id": 4,
+      "name": "Bolachas light de carne fresca e morango",
+      "img": "https://cdn.shopify.com/s/files/1/0659/0706/5061/files/10_500x.png?v=1701164220",
+      "price": 2.39,
+      "size": "",
+      "filters": ["light"]
+    }
+  ]
+}

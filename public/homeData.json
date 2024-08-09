@@ -1,0 +1,122 @@
+{
+  "sections": [
+    {
+      "id": 1,
+      "type": 1,
+      "title": "Como funciona",
+      "cards": [
+        {
+          "number": 1,
+          "img": "/assets/section-1.png",
+          "title": "Sem o stress da escolha",
+          "text": "Um veterinário determina os nutrientes, porções e suplementos certos"
+        },
+        {
+          "number": 2,
+          "img": "/assets/section-2.png",
+          "title": "Entregue em sua casa",
+          "text": "Entregas programadas para que nunca mais fique sem comida"
+        },
+        {
+          "number": 3,
+          "img": "/assets/section-3.png",
+          "title": "Consulta inicial com o veterinário",
+          "text": "Por telefone para ajudar na transição, desparasitação e dúvidas"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": 2,
+      "data": {
+        "img": "/assets/annotated-image-1.png",
+        "preHeader": "Nomeada a melhor ração do mercado",
+        "header": "Comida que dá mais anos saudáveis ao seu cão",
+        "items": [
+          {
+            "img": "/assets/section-1.png",
+            "header": "Refeições à medida",
+            "text": "A base para a proteção contra doenças"
+          },
+          {
+            "img": "/assets/section-2.png",
+            "header": "Das quintas para sua casa",
+            "text": "Carne fresca e verduras na forma de ração"
+          },
+          {
+            "img": "/assets/section-3.png",
+            "header": "Suplemento antioxidante Oxi+®",
+            "text": "Purifica o corpo, eliminando inflamações e toxinas"
+          },
+          {
+            "img": "/assets/section-3.png",
+            "header": "A mais saborosa do mercado",
+            "text": "Uma cobertura natural que reveste os biscoitos"
+          }
+        ]
+      }
+    },
+    {
+      "id": 3,
+      "type": 2,
+      "data": {
+        "img": "/assets/annotated-image-2.png",
+        "preHeader": "A escolha dos donos que amam os seus cães",
+        "header": "Um cão saudável, por dentro e por fora",
+        "items": [
+          {
+            "img": "/assets/section-1.png",
+            "text": "Pelo mais brilhante e saudável"
+          },
+          { "img": "/assets/section-2.png", "text": "Fezes mais consistentes" },
+          { "img": "/assets/section-3.png", "text": "Provam a comida e adoram" }
+        ]
+      }
+    },
+    {
+      "id": 4,
+      "type": 2,
+      "data": {
+        "img": "/assets/annotated-image-3.png",
+        "preHeader": "Plano Barkyn",
+        "header": "O que recebe na primeira encomenda",
+        "items": [
+          { "img": "/assets/section-1.png", "text": "Comida à medida" },
+          {
+            "img": "/assets/section-2.png",
+            "text": "Consulta de transição com um veterinário"
+          },
+          {
+            "img": "/assets/section-3.png",
+            "text": "Plano nutricional e de desparasitação"
+          },
+          { "img": "/assets/section-3.png", "text": "Copo medidor gratuito" },
+          { "img": "/assets/section-3.png", "text": "Manual de boas-vindas" }
+        ]
+      }
+    },
+
+    {
+      "id": 5,
+      "type": 1,
+      "title": "O que as famílias Barkyn dizem sobre nós",
+      "cards": [
+        {
+          "img": "/assets/review-1.png",
+          "title": "Mário",
+          "text": "\"Comecei a dar Barkyn há 15 dias e já se nota a diferença. A minha cadela tinha pouco apetite e agora parece que rejuvenesceu! Come com alegria!\""
+        },
+        {
+          "img": "/assets/review-2.png",
+          "title": "Maria",
+          "text": "\"A melhor decisão que fiz. A minha cadela tem 12 anos, era alérgica a tudo. Gostou logo da Barkyn, fica louca quando come, e a ajuda que nos dão não podia ser melhor.\""
+        },
+        {
+          "img": "/assets/review-3.png",
+          "title": "Joana",
+          "text": "\"Queremos agradecer a existência da Barkyn! O bem-estar dos cães está sempre em primeiro lugar, nota-se na qualidade da comida, que é feita para os cães crescerem bem!\""
+        }
+      ]
+    }
+  ]
+}

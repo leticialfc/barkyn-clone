@@ -1,0 +1,62 @@
+{
+  "dieta": [
+    {
+      "name": "Sem cereais",
+      "value": "sem-cereais"
+    },
+    {
+      "name": "Light",
+      "value": "light"
+    },
+    {
+      "name": "Sensível",
+      "value": "sensivel"
+    }
+  ],
+  "idade": [
+    {
+      "name": "Puppy",
+      "value": "puppy"
+    },
+    {
+      "name": "Adulto",
+      "value": "adulto"
+    },
+    {
+      "name": "Senior",
+      "value": "senior"
+    }
+  ],
+  "porte": [
+    {
+      "name": "Pequeno",
+      "value": "pequeno"
+    },
+    {
+      "name": "Médio",
+      "value": "medio"
+    },
+    {
+      "name": "Grande",
+      "value": "grande"
+    }
+  ],
+  "produto": [
+    {
+      "name": "Ração",
+      "value": "racao"
+    },
+    {
+      "name": "Comida húmida",
+      "value": "comida-humida"
+    },
+    {
+      "name": "Snacks",
+      "value": "snacks"
+    },
+    {
+      "name": "Suplementos",
+      "value": "suplementos"
+    }
+  ]
+}
